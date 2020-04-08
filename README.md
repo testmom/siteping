@@ -1,5 +1,5 @@
-siteping
-========
+siteping tiny monitoring script with telegram notification
+==========================================================
 
 Siteping is a tiny bash script for monitoring hosts, it notifies you when a host is unavailable.
 The notification is using the Telegram-Bot API. Before you can use it, create your personal Telegam-Bot token.
